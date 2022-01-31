@@ -1,0 +1,194 @@
+[
+  {
+    "category": "pure-veg",
+    "name": "Burger",
+    "price": 150,
+    "star": 4,
+    "reviews": 14523,
+    "img": "https://i.ibb.co/HBQCkB8/burger.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Sushi",
+    "price": 250,
+    "star": 4.5,
+    "reviews": 1452,
+    "img": "https://i.ibb.co/4WgqqXk/sushi1.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Barbecue",
+    "price": 350,
+    "star": 4,
+    "reviews": 145,
+    "img": "https://i.ibb.co/D747fCk/barbecue.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Sandwich",
+    "price": 100,
+    "star": 3.5,
+    "reviews": 1234,
+    "img": "https://i.ibb.co/4fykzT5/sandwich.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Ramen",
+    "price": 350,
+    "star": 4,
+    "reviews": 14514,
+    "img": "https://i.ibb.co/qm2m5W4/ramen.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Pizza",
+    "price": 500,
+    "star": 4.5,
+    "reviews": 4511,
+    "img": "https://i.ibb.co/2FMj26H/pizza.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Pancake",
+    "price": 450,
+    "star": 3,
+    "reviews": 1453,
+    "img": "https://i.ibb.co/zS8DGCW/pancake.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Kebab",
+    "price": 750,
+    "star": 4.5,
+    "reviews": 74531,
+    "img": "https://i.ibb.co/k6mLzMZ/kebab.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Ice Cream",
+    "price": 350,
+    "star": 3,
+    "reviews": 14523,
+    "img": "https://i.ibb.co/37Rqqj8/ice-cream.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Hot Dog",
+    "price": 550,
+    "star": 4,
+    "reviews": 78423,
+    "img": "https://i.ibb.co/7psBcrP/hot-dog.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "French Fries",
+    "price": 350,
+    "star": 2,
+    "reviews": 45421,
+    "img": "https://i.ibb.co/rG530q2/french-fries.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Fired Chicken",
+    "price": 500,
+    "star": 5,
+    "reviews": 14512,
+    "img": "https://i.ibb.co/xjdshvR/fried-chicken.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Donut",
+    "price": 150,
+    "star": 3.5,
+    "reviews": 1451,
+    "img": "https://i.ibb.co/HTkyYvy/donut.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Dumpling",
+    "price": 500,
+    "star": 4,
+    "reviews": 1452,
+    "img": "https://i.ibb.co/cLkVn4K/dumpling.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Dango",
+    "price": 300,
+    "star": 3,
+    "reviews": 512,
+    "img": "https://i.ibb.co/w0sP9BL/dango.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Cheese",
+    "price": 200,
+    "star": 4,
+    "reviews": 4512,
+    "img": "https://i.ibb.co/QbrPRmF/cheese.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Salad",
+    "price": 100,
+    "star": 4,
+    "reviews": 512,
+    "img": "https://i.ibb.co/Fqpjhqy/salad.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Soup",
+    "price": 300,
+    "star": 4,
+    "reviews": 1512,
+    "img": "https://i.ibb.co/qy2V3nN/soup.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Steak",
+    "price": 800,
+    "star": 5,
+    "reviews": 5512,
+    "img": "https://i.ibb.co/60HSgfY/steak.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Tempura",
+    "price": 300,
+    "star": 3,
+    "reviews": 123,
+    "img": "https://i.ibb.co/s3SS25L/tempura.png"
+  },
+  {
+    "category": "pure-veg",
+    "name": "Onigiri",
+    "price": 150,
+    "star": 5,
+    "reviews": 4512,
+    "img": "https://i.ibb.co/sJ1Q54T/onigiri.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Fried Egg",
+    "price": 50,
+    "star": 4,
+    "reviews": 5121,
+    "img": "https://i.ibb.co/PNW1Y8f/fried-egg.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Sushi",
+    "price": 500,
+    "star": 5,
+    "reviews": 6112,
+    "img": "https://i.ibb.co/LtZxTV1/sushi.png"
+  },
+  {
+    "category": "non-veg",
+    "name": "Breakfast",
+    "price": 100,
+    "star": 5,
+    "reviews": 1512,
+    "img": "https://i.ibb.co/68DBXK3/breakfast.png"
+  }
+]
